@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=D:\Projects\BookStore\bin\UserDetails-1.0.jar -DgroupId=com.prism.user -DartifactId=UserDetails -Dversion=1.0 -Dpackaging=jar
